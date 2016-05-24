@@ -37,7 +37,7 @@ Your app must generate a JSON like:
                 "aggregation_column": "amount",
                 "aggregation": "count"
             }
-        },
+        }
     ]
 }
 ````
